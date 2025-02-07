@@ -48,7 +48,7 @@ project/
 1️⃣ Clone the repository:
    ```bash
    git clone https://github.com/Yashwanth1304/Book-Review-Application.git
-   cd book_copy
+   cd Book-Review-Application-main
    ```
 2️⃣ Install dependencies:
    ```bash
